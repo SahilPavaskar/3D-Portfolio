@@ -20,8 +20,8 @@ Static portfolio site prepared for GitHub Pages.
 
    ```sh
    gh api --method POST repos/SahilPavaskar/3D-Portfolio/pages \
-     -f source.branch=main \
-     -f source.path=/
+     -f 'source[branch]=main' \
+     -f 'source[path]=/'
    ```
 
 After GitHub finishes the Pages build, the site should be available at:
