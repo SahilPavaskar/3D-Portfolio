@@ -1,4 +1,4 @@
-# 3D Portfolio
+# Sahil Portfolio
 
 Static portfolio site prepared for GitHub Pages.
 
